@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sapir Daga
+![](https://komarev.com/ghpvc/?username=SapirDaga1)
+<h1 align="center">Hi 👋, I'm Sapir
 <a href="https://www.linkedin.com/in/sapir-daga/">
   <img alt="Chenpanker's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -31,4 +32,3 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SapirDaga1&theme=nord_dark)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SapirDaga1&theme=radical" alt="sapirdaga" /></p>
-
